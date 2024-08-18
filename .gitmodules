@@ -1,0 +1,3 @@
+[submodule "contracts/2023-10-PasswordStore"]
+	path = contracts/2023-10-PasswordStore
+	url = https://github.com/Cyfrin/2023-10-PasswordStore
