@@ -10,9 +10,6 @@
 	- [Low Severity](#low-severity)
 	- [Informational](#informational)
 
-
-
-
 ## ContractName
 
 ### Summary
