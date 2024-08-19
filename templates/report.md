@@ -3,21 +3,15 @@
 
 ## Table of Contents <!-- omit from toc -->
 
-- [ContractName](#contractname)
-	- [Summary](#summary)
-	- [High Severity](#high-severity)
-	- [Medium Severity](#medium-severity)
-	- [Low Severity](#low-severity)
-	- [Informational](#informational)
+- [High Severity Findings](#high-severity-findings)
+- [Medium Severity Findings](#medium-severity-findings)
+- [Low Severity Findings](#low-severity-findings)
+- [Informational Findings](#informational-findings)
 
-## ContractName
+## High Severity Findings
 
-### Summary
+## Medium Severity Findings
 
-### High Severity
+## Low Severity Findings
 
-### Medium Severity
-
-### Low Severity
-
-### Informational
+## Informational Findings

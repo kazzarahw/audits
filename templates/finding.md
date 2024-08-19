@@ -1,8 +1,8 @@
-## [S-#] Cause_Impact_Title
+### [S-#] Cause_Impact_Title
 
 **Description**:
 
-
+**Impact**:
 
 **Proof**:
 
