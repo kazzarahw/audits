@@ -1,3 +1,6 @@
 [submodule "contracts/2023-10-PasswordStore"]
 	path = contracts/2023-10-PasswordStore
 	url = https://github.com/Cyfrin/2023-10-PasswordStore
+[submodule "contracts/2023-10-Puppy-Raffle"]
+	path = contracts/2023-10-Puppy-Raffle
+	url = https://github.com/Cyfrin/2023-10-Puppy-Raffle
